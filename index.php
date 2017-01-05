@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Portal UMKM Randu</title>
+    <title>saya cerita kamu</title>
 
     
     <link href="css/bootstrap.min.css" rel="stylesheet">
